@@ -5,7 +5,7 @@
 }
 
 :root {
-    --orange: #ff6b35;
+    --pink: #FFB6C1;
     --orange-light: #ff8c5a;
     --orange-dark: #e55a2b;
     --blue: #1e90ff;
@@ -16,7 +16,6 @@
     --text-primary: #ffffff;
     --text-secondary: rgba(255, 255, 255, 0.7);
     --glass-border: rgba(255, 255, 255, 0.1);
-    --pink: #ff3d7f;
 }
 
 body {
