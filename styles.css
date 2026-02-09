@@ -169,7 +169,7 @@ h1 .highlight-blue {
 }
 
 .member-card:nth-child(odd)::before {
-    background: var(--orange);
+    background: var(--pink);
 }
 
 .member-card:nth-child(even)::before {
