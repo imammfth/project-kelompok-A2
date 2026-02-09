@@ -6,8 +6,8 @@
 
 :root {
     --pink: #FFB6C1;
-    --orange-light: #ff8c5a;
-    --orange-dark: #e55a2b;
+    --pink-light: #ff8c5a;
+    --pink-dark: #e55a2b;
     --blue: #1e90ff;
     --blue-light: #4da6ff;
     --blue-dark: #0066cc;
@@ -101,8 +101,8 @@ h1 {
     line-height: 1.1;
 }
 
-h1 .highlight-orange {
-    color: var(--orange);
+h1 .highlight-pink {
+    color: var(--pink);
 }
 
 h1 .highlight-blue {
@@ -118,7 +118,7 @@ h1 .highlight-blue {
 }
 
 .subtitle .accent {
-    color: var(--orange);
+    color: var(--pink);
     font-weight: 600;
 }
 
@@ -281,7 +281,7 @@ h1 .highlight-blue {
 
 .member-card:nth-child(odd) .member-role {
     background: rgba(255, 107, 53, 0.2);
-    color: var(--orange-light);
+    color: var(--pink-light);
 }
 
 .member-card:nth-child(even) .member-role {
@@ -335,8 +335,8 @@ footer {
     font-size: 0.9rem;
 }
 
-.footer-text .orange {
-    color: var(--orange);
+.footer-text .pink {
+    color: var(--pink);
     font-weight: 600;
 }
 
